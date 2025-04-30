@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá! Bem-vindo ao meu perfil no GitHub!
 
-<!--
-**Rafaelraas/rafaelraas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou **Rafael Axevedo**, um desenvolvedor apaixonado por tecnologia, inovação e aprendizado contínuo. 🚀
 
-Here are some ideas to get you started:
+## 🌟 Sobre mim
+- 🎓 **Formação:** Tecnologia em Sistemas para Internet (cursando pelo IFRN)
+-                   Engenharia de Computação (incompleto pela UPE)
+                    Fisica Bacharel (incompleto pela UFS)
+-                   
+- 💼 **Ocupação atual:** CONTROLADOR DE TRAFEGO AEREO
+- 💡 **Interesses:** Desenvolvimento de software, código aberto, inteligência artificial, realidade virtual e ampliada.
+- 🌍 **Localização:** Natal RN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Minhas Habilidades
+- **Linguagens de Programação:** Python, JavaScript, PHP, Java.
+- **Frameworks e Tecnologias:** React, Laravel, NodeJS, Django.
+- **Ferramentas:** Git, Docker.
+
+## 📌 Projetos Destaque
+Aqui estão alguns dos meus projetos mais relevantes:
+- [**Projeto 1**](#) - *Breve descrição do projeto.*
+- [**Projeto 2**](#) - *Breve descrição do projeto.*
+- [**Outros Projetos**](#) - Explore mais repositórios no meu perfil!
+
+## 🌱 O que estou aprendendo
+Atualmente, estou me aprofundando em:
+- [Tecnologia 1]
+- [Tecnologia 2]
+- [Outro foco de aprendizado]
+
+## 📫 Como me encontrar
+- **LinkedIn:** [Seu link do LinkedIn](#)
+- **Portfólio:** [Seu site ou portfólio](#)
+- **E-mail:** raas@poli.br(mailto:raas@poli.br)
+
+## 💬 Vamos conversar!
+Se você tiver alguma dúvida, sugestão ou ideia para colaborar, sinta-se à vontade para entrar em contato! 😄
+
+---
