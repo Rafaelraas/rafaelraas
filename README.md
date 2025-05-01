@@ -1,7 +1,7 @@
 # 👋 Olá! Bem-vindo ao meu perfil no GitHub!
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555864400-ccb6f284978c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="Banner - VR e Tecnologia" width="600"/>
+  <img src="https://images.pexels.com/photos/392018/pexels-photo-392018.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Banner - Tecnologia e Código" width="600"/>
 </p>
 
 Eu sou **Rafael Azevedo**, um entusiasta de tecnologia e Controlador de Tráfego Aéreo, sempre buscando conectar minhas paixões e aprender continuamente. Atualmente cursando Sistemas para Internet no IFRN. 🚀
@@ -38,7 +38,7 @@ Eu sou **Rafael Azevedo**, um entusiasta de tecnologia e Controlador de Tráfego
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Projetos em Destaque ( perfil em elaboração)
 
 <!-- Substitua # pelos links reais e adicione descrições -->
 *   🚀 **[Nome do Projeto 1](link-para-o-repo-ou-deploy)**: Uma breve descrição sobre o que o projeto faz e as tecnologias usadas.
@@ -47,9 +47,9 @@ Eu sou **Rafael Azevedo**, um entusiasta de tecnologia e Controlador de Tráfego
 
 ---
 
-## 🌱 O que estou explorando
+## 🌱 O que estou explorando ( perfil em elaboração)
 
-Atualmente, estou focado em aprimorar minhas habilidades em:
+Atualmente, estou focado em aprimorar minhas habilidades em: 
 
 *   [**Tecnologia/Área 1**]: [Breve descrição do seu objetivo, ex: "Construindo aplicações full-stack com MERN"]
 *   [**Tecnologia/Área 2**]: [Ex: "Aprofundando em conceitos de Machine Learning com Python"]
