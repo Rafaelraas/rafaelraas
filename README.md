@@ -1,8 +1,12 @@
 # 👋 Olá! Bem-vindo ao meu perfil no GitHub!
 
 <p align="center">
-  <img src="https://t3.ftcdn.net/jpg/05/82/57/56/240_F_582575676_DIhrgT60LTV1abNoX9WyO6pYQRWZhrGB.jpg?auto=compress&cs=tinysrgb&w=1024&h=502&dpr=1" alt="Banner - Código e Tecnologia" />
+  <img src="https://t3.ftcdn.net/jpg/02/96/61/94/360_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg?auto=compress&cs=tinysrgb&w=1024&h=502&dpr=1" alt="Banner - Código e Tecnologia" />
 </p>
+
+<!-- <p align="center">
+  <img src="https://t3.ftcdn.net/jpg/05/82/57/56/240_F_582575676_DIhrgT60LTV1abNoX9WyO6pYQRWZhrGB.jpg?auto=compress&cs=tinysrgb&w=1024&h=502&dpr=1" alt="Banner - Código e Tecnologia" />
+</p> -->
 
 Eu sou **Rafael Azevedo**, um entusiasta de tecnologia e Controlador de Tráfego Aéreo, sempre buscando conectar minhas paixões e aprender continuamente. Atualmente cursando Sistemas para Internet no IFRN. 🚀
 
