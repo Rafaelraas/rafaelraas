@@ -1,7 +1,7 @@
 # 👋 Olá! Bem-vindo ao meu perfil no GitHub!
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1639762681057-408e52192e50?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80" alt="Banner - Metaverso Abstrato" width="800"/>
+  <img src="https://images.unsplash.com/photo-1639762681057-408e52192e50?ixlib=rb-.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80" alt="Banner - Metaverso Abstrato" width="800"/>
 </p>
 
 Eu sou **Rafael Azevedo**, um entusiasta de tecnologia e Controlador de Tráfego Aéreo, sempre buscando conectar minhas paixões e aprender continuamente. Atualmente cursando Sistemas para Internet no IFRN. 🚀
