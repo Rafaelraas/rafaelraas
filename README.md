@@ -1,7 +1,7 @@
 # 👋 Olá! Bem-vindo ao meu perfil no GitHub!
 
 <p align="center">
-  <img src="URL_PARA_UM_BANNER_OU_IMAGEM_LEGAL" alt="Banner do Perfil" width="600"/>
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="Banner - Interface Futurista" width="600"/>
 </p>
 
 Eu sou **Rafael Azevedo**, um entusiasta de tecnologia e Controlador de Tráfego Aéreo, sempre buscando conectar minhas paixões e aprender continuamente. Atualmente cursando Sistemas para Internet no IFRN. 🚀
