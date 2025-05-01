@@ -1,7 +1,7 @@
 # 👋 Olá! Bem-vindo ao meu perfil no GitHub!
 
 <p align="center">
-  <img src="https://vaidebolsa.com.br/blog/wp-content/uploads/2021/07/Como-e-o-curso-de-sistemas-para-a-internet-1024x502.png?auto=compress&cs=tinysrgb&w=1024&h=402&dpr=1" alt="Banner - Código e Tecnologia" width="1024"/>
+  <img src="https://vaidebolsa.com.br/blog/wp-content/uploads/2021/07/Como-e-o-curso-de-sistemas-para-a-internet-1024x502.png?auto=compress&cs=tinysrgb&w=1024&h=502&dpr=1" alt="Banner - Código e Tecnologia" width="1024" heigth="402"/>
 </p>
 
 Eu sou **Rafael Azevedo**, um entusiasta de tecnologia e Controlador de Tráfego Aéreo, sempre buscando conectar minhas paixões e aprender continuamente. Atualmente cursando Sistemas para Internet no IFRN. 🚀
