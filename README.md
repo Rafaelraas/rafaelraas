@@ -1,7 +1,7 @@
 # 👋 Olá! Bem-vindo ao meu perfil no GitHub!
 
 <p align="center">
-  <img src="https://images.pexels.com/photos/5076516/pexels-photo-5076516.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Banner - Código e Tecnologia" width="600"/>
+  <img src="[https://images.pexels.com/photos/5076516/pexels-photo-5076516.jpeg]?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Banner - Código e Tecnologia" width="1260"/>
 </p>
 
 Eu sou **Rafael Azevedo**, um entusiasta de tecnologia e Controlador de Tráfego Aéreo, sempre buscando conectar minhas paixões e aprender continuamente. Atualmente cursando Sistemas para Internet no IFRN. 🚀
