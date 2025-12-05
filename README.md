@@ -1,12 +1,10 @@
 # 👋 Olá! Bem-vindo ao meu perfil no GitHub!
 
-<p align="center">
-  <img src="https://t3.ftcdn.net/jpg/02/96/61/94/360_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg?auto=compress&cs=tinysrgb&w=1024&h=502&dpr=1" alt="Banner - Código e Tecnologia" />
-</p>
+<div align="center">
+  
+### 💻 Desenvolvedor Full-Stack | ✈️ Controlador de Tráfego Aéreo | 🎓 Estudante de Tecnologia
 
-<!-- <p align="center">
-  <img src="https://t3.ftcdn.net/jpg/05/82/57/56/240_F_582575676_DIhrgT60LTV1abNoX9WyO6pYQRWZhrGB.jpg?auto=compress&cs=tinysrgb&w=1024&h=502&dpr=1" alt="Banner - Código e Tecnologia" />
-</p> -->
+</div>
 
 Eu sou **Rafael Azevedo**, um entusiasta de tecnologia e Controlador de Tráfego Aéreo, sempre buscando conectar minhas paixões e aprender continuamente. Atualmente cursando Sistemas para Internet no IFRN. 🚀
 
@@ -28,44 +26,53 @@ Eu sou **Rafael Azevedo**, um entusiasta de tecnologia e Controlador de Tráfego
 
 *   **Linguagens:** Python | JavaScript | PHP | Java
 *   **Frameworks & Bibliotecas:** React | Node.js | Laravel | Django
-*   **Ferramentas:** Git | Docker | Linux
-*   **Banco de Dados:** [Adicione aqui, ex: PostgreSQL, MySQL, MongoDB]
+*   **Ferramentas:** Git | Docker | Linux | VS Code
+*   **Banco de Dados:** PostgreSQL | MySQL | MongoDB
 
-<!-- Opcional: Adicionar Badges -->
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
 ---
 
-## 📌 Projetos em Destaque ( perfil em elaboração)
+## 📌 Projetos em Destaque
 
-<!-- Substitua # pelos links reais e adicione descrições -->
-*   🚀 **[Nome do Projeto 1](link-para-o-repo-ou-deploy)**: Uma breve descrição sobre o que o projeto faz e as tecnologias usadas.
-*   ✨ **[Nome do Projeto 2](link-para-o-repo-ou-deploy)**: Outra descrição concisa e interessante.
-*   ➡️ **[Veja mais projetos no meu perfil!](https://github.com/Rafaelraas?tab=repositories)**
+Estou trabalhando ativamente em projetos pessoais e profissionais que demonstram minhas habilidades em desenvolvimento web full-stack. Confira meus repositórios para ver em que estou trabalhando!
+
+*   ➡️ **[Veja todos os meus projetos!](https://github.com/Rafaelraas?tab=repositories)**
 
 ---
 
-## 🌱 O que estou explorando ( perfil em elaboração)
+## 🌱 O que estou explorando
 
 Atualmente, estou focado em aprimorar minhas habilidades em: 
 
-*   [**Tecnologia/Área 1**]: [Breve descrição do seu objetivo, ex: "Construindo aplicações full-stack com MERN"]
-*   [**Tecnologia/Área 2**]: [Ex: "Aprofundando em conceitos de Machine Learning com Python"]
-*   [**Contribuições Open Source**]: [Ex: "Procurando meu primeiro projeto para contribuir"]
+*   **Desenvolvimento Full-Stack**: Construindo aplicações web completas utilizando React, Node.js e bancos de dados relacionais e não-relacionais
+*   **Inteligência Artificial**: Explorando conceitos de Machine Learning e suas aplicações práticas com Python
+*   **Boas Práticas**: Aprofundando conhecimentos em arquitetura de software, testes automatizados e DevOps
+*   **Contribuições Open Source**: Buscando oportunidades para contribuir com a comunidade de código aberto
 
 ---
 
 ## 📫 Conecte-se comigo
 
-*   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
+Estou sempre aberto a colaborações e networking! Entre em contato:
+
 *   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raas@poli.br)
-<!--TODO *   [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](SEU_LINK_PORTFOLIO) quando tiver um -->
+*   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafaelraas)
 
 ---
 
